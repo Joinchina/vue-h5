@@ -1,0 +1,61 @@
+"[{
+    func: '用户管理',
+    colspan:1,
+    vip:'无限制',
+    free:'500人',
+    funcItem:'学员数量'
+},{
+    func: '项目管理',
+    vip:'有',
+    colspan:1,
+    free:'有',
+    funcItem:'添加项目及班级'
+},{
+    func: '课程管理',
+    vip:'有',
+    free:'有',
+    colspan:4,
+    funcItem:'单日课程'
+},{
+    /func: '课程管理',
+    vip:'有',
+    free:'有',
+    colspan:0,
+    funcItem:'跨天课程'
+},{
+    func: '课程管理',
+    vip:'有',
+    free:'无',
+    colspan:0,
+    funcItem:'选修课程功能'
+},{
+    func: '课程管理',
+    vip:'有',
+    free:'体验100小时',
+    colspan:0,
+    funcItem:'直播课程功能'
+},{
+    func: '活动管理',
+    vip:'有',
+    free:'有',
+    colspan:3,
+    funcItem:'活动添加及查看'
+},{
+    func: '活动管理',
+    vip:'有',
+    free:'无',
+    colspan:0,
+    funcItem:'特色活动'
+},{
+    func: '活动管理',
+    vip:'有',
+    free:'无',
+    colspan:0,
+    funcItem:'导出活动材料'
+},{
+    func: '总结报告',
+    vip:'有',
+    free:'有',
+    colspan:8,
+    funcItem:'数据在线查看'
+}]"
