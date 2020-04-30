@@ -14,7 +14,7 @@
     "axios": "^0.18.0",
     "element-ui": "^2.8.2",
     "fastclick": "^1.0.6",
-    "jquery": "^3.3.1",
+    "jquery": "^3.5.0",
     "less": "^3.9.0",
     "less-loader": "^4.1.0",
     "lib-flexible": "^0.3.2",
