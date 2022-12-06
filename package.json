@@ -20,7 +20,7 @@
     "lib-flexible": "^0.3.2",
     "mobile-detect": "^1.4.3",
     "px2rem-loader": "^0.1.9",
-    "qs": "^6.6.0",
+    "qs": "^6.6.1",
     "video.js": "^7.4.1",
     "videojs-contrib-hls.js": "^3.2.0",
     "vue": "^2.5.2",
